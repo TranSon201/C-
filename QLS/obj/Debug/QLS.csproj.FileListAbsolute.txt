@@ -1,0 +1,74 @@
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\bin\Debug\QLS.exe.config
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\bin\Debug\QLS.exe
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\bin\Debug\QLS.pdb
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.csprojResolveAssemblyReference.cache
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.dangnhap.resources
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.Properties.Resources.resources
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.csproj.GenerateResource.Cache
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.exe
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.pdb
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.quanlys.resources
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.thongtincanhan.resources
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.Admin.resources
+C:\Users\son73\OneDrive\Máy tính\QLS\QLS\obj\Debug\QLS.chitiethoadon.resources
+D:\C#\QLS\QLS\obj\Debug\QLS.csprojAssemblyReference.cache
+D:\C#\QLS\QLS\obj\Debug\QLS.chitiethoadon.resources
+D:\C#\QLS\QLS\obj\Debug\QLS.dangnhap.resources
+D:\C#\QLS\QLS\obj\Debug\QLS.Admin.resources
+D:\C#\QLS\QLS\obj\Debug\QLS.Properties.Resources.resources
+D:\C#\QLS\QLS\obj\Debug\QLS.quanlys.resources
+D:\C#\QLS\QLS\obj\Debug\QLS.thongtincanhan.resources
+D:\C#\QLS\QLS\obj\Debug\QLS.csproj.GenerateResource.cache
+D:\C#\QLS\QLS\obj\Debug\QLS.exe
+D:\C#\QLS\QLS\obj\Debug\QLS.pdb
+D:\C#\QLS\QLS\bin\Debug\QLS.exe.config
+D:\C#\QLS\QLS\bin\Debug\QLS.exe
+D:\C#\QLS\QLS\bin\Debug\QLS.pdb
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\QLS\QLS\bin\Debug\FlashControlV71.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\QLS\QLS\bin\Debug\ShockwaveFlashObjects.dll
+D:\C#\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\QLS\QLS\bin\Debug\stdole.dll
+D:\C#\QLS\QLS\obj\Debug\QLS.csproj.CopyComplete
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\QLS.exe.config
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.exe
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.pdb
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\QLS.exe
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\QLS.pdb
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\FlashControlV71.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\bin\Debug\stdole.dll
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.csprojResolveAssemblyReference.cache
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.chitiethoadon.resources
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.dangnhap.resources
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.Admin.resources
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.Properties.Resources.resources
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.quanlys.resources
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.thongtincanhan.resources
+C:\Users\son73\OneDrive\Máy tính\QLS1\QLS\QLS\obj\Debug\QLS.csproj.GenerateResource.Cache
